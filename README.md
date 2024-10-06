@@ -1,2 +1,2 @@
-# bitCamp
-Compete in coding and problem-solving
+# gogrok
+Compete in coding and problem solving!
